@@ -1,0 +1,40 @@
+@65227fb7-aaf5-4071-9686-fa4d34629def
+MSRC Number: n/a
+MSRC severity: n/a
+KB article numbers: 947821
+More information:
+https://support.microsoft.com/kb/947821
+Support Url:
+https://support.microsoft.com/
+System Update Readiness Tool for Windows 7 for x64-based Systems (KB947821) [October 2014]
+Last Modified: 10/28/2014
+Size: 951.9 MB
+UpdateID: 65227fb7-aaf5-4071-9686-fa4d34629def 
+Details:
+Overview Language Selection Package Details Install Resources
+Description: This tool is being offered because an inconsistency was found in the Windows servicing store which may prevent the successful installation of future updates, service packs, and software. This tool checks your computer for such inconsistencies and tries to resolve issues if found.
+Architecture: AMD64
+Classification: Critical Updates
+Supported products: Windows 7
+Supported languages: all
+MSRC Number: n/a
+MSRC severity: n/a
+KB article numbers: 947821
+More information:
+https://support.microsoft.com/kb/947821
+Support Url:
+https://support.microsoft.com/
+System Update Readiness Tool for Windows 7 for x64-based Systems (KB947821) [October 2014]
+Last Modified: 10/28/2014
+Size: 951.9 MB
+UpdateID: 65227fb7-aaf5-4071-9686-fa4d34629def 
+Details:
+Overview Language Selection Package Details Install Resources
+Restart behavior: Can request restart
+May request user input: No
+Must be installed exclusively:
+Requires network connectivity: No
+Uninstall Notes:
+n/a
+Uninstall Steps:
+n/a
